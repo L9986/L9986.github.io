@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5172],{4375:e=>{e.exports=JSON.parse('{"label":"WeChat:L2312367816","permalink":"/blog/tags/we-chat-l-2312367816","allTagsPath":"/blog/tags","count":1}')}}]);
